@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NGabaldon
+- 👀 I’m interested in ... Continuing learning and contributing to interesting projects.
+- 🌱 I’m currently learning ... Python in my free time while I study computer science.
+- 💞️ I’m looking to collaborate on ... Anything that seems interesting where my skills can be tested or further honed.
